@@ -19,8 +19,7 @@ public class CheckInController {
         ci.getCalendar();
         
         BancoDadosHotel.getTabelaCheckIn().add(ci);
-        
-        
+
         
     }
 }

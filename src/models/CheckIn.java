@@ -27,6 +27,7 @@ public class CheckIn {
 
    
     public Calendar getCalendar() {
+        Calendar c = Calendar.getInstance();
         return calendar;
     }
 
